@@ -2,9 +2,11 @@
 
 #Software Engineer
 
-- 🔭 I’m currently working on solutions in the **obesity** and **mental health** space.
-- 🌱 I’m currently sharpening my **C++** skills.
-- 🛩 I love **aviation** and can be found flying small planes in my free time.
+🔭 I’m currently working on solutions in the **obesity** and **mental health** space.
+
+🌱 I’m currently sharpening my **C++** skills.
+
+🛩 I love **aviation** and can be found flying small planes in my free time.
 
 <!--
 **fromtimwithcode/fromtimwithcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
