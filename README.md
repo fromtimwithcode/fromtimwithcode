@@ -1,6 +1,6 @@
 ### Hi there, I'm Tim 👋
 
-#Software Engineer
+# Software Engineer
 
 🔭 I’m currently working on solutions in the **obesity** and **mental health** space.
 
