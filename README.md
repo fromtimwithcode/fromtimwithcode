@@ -1,6 +1,6 @@
 ## Hi there, I'm Tim 👋
 
-📍 I'm a 🇵🇭Filipino/Chilean🇨🇱 software engineer living in Wisconsin.
+📍 I'm a Filipino/Chilean software engineer living in Wisconsin. 🇵🇭🇨🇱🇺🇸
 
 🔭 I’m currently working on solutions in the **physical** and **mental health** space with <a href="https://bloxfit.com">Bloxfit</a>.
 
