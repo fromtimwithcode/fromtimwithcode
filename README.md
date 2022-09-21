@@ -1,12 +1,14 @@
 ## Hi there, I'm Tim 👋
 
-### Software Engineer
+📍 I'm a 🇵🇭Filipino/Chilean🇨🇱 software engineer living in Wisconsin.
 
-🔭 I’m currently working on solutions in the **obesity** and **mental health** space.
+🔭 I’m currently working on solutions in the **physical** and **mental health** space with <a href="https://bloxfit.com">Bloxfit</a>.
 
-🌱 I’m currently sharpening my **C++** skills.
+🔪 I sharpen my skills daily and would love it if you checked out my <a href="https://fromtimwithcode.com">portfolio</a>.
 
 🛩 I love **aviation** and can be found flying small planes in my free time.
+
+🤼‍♂️ Some of my other hobbies include jiu jitsu, chess, lots of steak, and collecting stamps in my passport.
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="javascript" />
